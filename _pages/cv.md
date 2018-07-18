@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in Github, Github University, 2012
-* M.S. in Jekyll, Github University, 2014
-* Ph.D in Version Control Theory, Github University, 2018 (expected)
+* B.Sc. (Hons) in Biology, University of Sheffield, 2004
+* M.Sc. in Forest Science, University of Wales, Bangor, 2006
+* Ph.D in Remote Sensing of Vegetation, University of Canterbury (NZ), 2019 (expected)
 
 Work experience
 ======
