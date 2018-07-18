@@ -17,8 +17,8 @@ Education
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
+* 2013 - Present: Research Scientist
+  * Scion (New Zealand Forest Research Institute)
   * Duties included: Tagging issues
   * Supervisor: Professor Git
 
