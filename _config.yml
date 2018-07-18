@@ -79,11 +79,11 @@ analytics:
 # Site Author
 author:
   name             : "Jonathan Dash"
-  avatar           : "images\JDash.jpg"
+  avatar           : "images/JDash.jpg"
   bio              : "Your biography for the left-hand sidebar"
   location         : "Location"
   employer         :
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : "http://scholar.google.co.nz/citations?user=MLZTHIoAAAAJ&hl=en" 
   email            :
   uri              :
   bitbucket        :
