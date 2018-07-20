@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I research all aspects of remote sensing for forest assessment and monitoring. 
+I am a remote sensing scientist interested in all aspects of remote sensing for forest assessment and monitoring. I write code in R and Python and use OS geospatial tools. 
 
 
 
