@@ -6,7 +6,7 @@ excerpt: 'In this paper we propose new concepts for interpreting plantation fore
 date: 2018-09-09
 venue: 'Trends in Plant Science'
 paperurl: 'https://www.sciencedirect.com/science/article/pii/S1360138518301717'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+citation: 'Dungey, H.S., Dash, J.P., Pont, D., Clinton, P.W., Watt, M.S., Telfer, E.J. (2018). &quot;Phenotyping Whole Forests Will Help to Track Genetic Performance.&quot; <i>Trends in Plant Science</i>. X(X).'
 ---
 In this paper we propose new concepts for interpreting plantation forest systems using a "phenotyping platform" that incorporates remote sensing, genomics, and forest management records.
 
