@@ -10,7 +10,7 @@ redirect_from:
 
 About Me
 ------
-Hello! I am a remote sensing and forestry scientist interested in all aspects of remote sensing for forest assessment and monitoring. I write code in R and Python and use OS geospatial tools. 
+Hello! I am a remote sensing and forestry scientist interested in all aspects of remote sensing for forest and ecosystem assessment and monitoring. I use R, Python, and OS geospatial tools for my analysis.  
 
 
 
