@@ -11,21 +11,29 @@ redirect_from:
 
 Education
 ======
-* B.Sc. (Hons) in Biology, University of Sheffield, 2004
-* M.Sc. in Forest Science, University of Wales, Bangor, 2006
 * Ph.D in Remote Sensing of Vegetation, University of Canterbury (NZ), 2019 (expected)
+* M.Sc. in Forest Science, University of Wales, Bangor, 2006
+* B.Sc. (Hons) in Biology, University of Sheffield, 2004
 
 Work experience
 ======
-* 2013 - Present: Research Scientist
+
+* 2015 - Present: Senior Scientist
   * Scion (New Zealand Forest Research Institute)
   * Duties included: Tagging issues
-  * Supervisor: Professor Git
+ 
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2013 - 2015: Remote Sensing Scientist
+  * Scion (New Zealand Forest Research Institute)
+  * Duties included: Tagging issues
+
+* 2011 - 2013: Consultant
+  * Interpine Forestry Limited
+  * Duties included: Remote Sensing Research, Experimental design, Biometric modelling, Project Management, Forest valuation, Due Diligence
+  
+* 2009 - 2011: Technical Forester
+  * Interpine Forestry Limited
+  * Duties included: Remote Sensing Research, Biometric modelling, Project Management, Forest valuation, Due Diligence
   
 Skills
 ======
