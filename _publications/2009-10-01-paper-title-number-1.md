@@ -1,15 +1,15 @@
 ---
-title: "Paper Title Number 1"
+title: "Phenotyping Whole Forests Will Help to Track Genetic Performance"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
+permalink:
+excerpt: 'In this paper we propose new concepts for interpreting plantation forest systems using a "phenotyping platform" that incorporates remote sensing, genomics, and forest management records.'
+date: 2018-09-09
+venue: 'Trends in Plant Science'
+paperurl: 'https://www.sciencedirect.com/science/article/pii/S1360138518301717'
 citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+In this paper we propose new concepts for interpreting plantation forest systems using a "phenotyping platform" that incorporates remote sensing, genomics, and forest management records.
 
 [Download paper here](http://academicpages.github.io/files/paper1.pdf)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Recommended citation: Dungey, H.S., Dash, J.P., Pont, D., Clinton, P.W., Watt, M.S., Telfer, E.J. (2018). "Phenotyping Whole Forests Will Help to Track Genetic Performance" <i>Trends in Plant Science </i>. 1(1).
