@@ -9,23 +9,20 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in Remote Sensing of Vegetation, University of Canterbury (NZ), 2019 (expected)
-* M.Sc. in Forest Science, University of Wales, Bangor, 2006
-* B.Sc. (Hons) in Biology, University of Sheffield, 2004
 
 Work experience
 ======
 
 * 2015 - Present: Senior Scientist
   * Scion (New Zealand Forest Research Institute)
+    * Large research project management
     * Invasive plant detection research
     * Forest health monitoring research
     * Forest Inventory and Measurement research
     * Forest phenotyping
     * Silvicultural research
     * Proposal writing
+    * Mentoring and guidance of junior colleagues
  
 
 * 2013 - 2015: Remote Sensing Scientist
@@ -54,6 +51,12 @@ Skills
   * Experimental Design
 * Strategic vision and idea generation
 * Project Management and delivery
+
+Education
+======
+* Ph.D in Remote Sensing of Vegetation, University of Canterbury (NZ), 2019 (expected)
+* M.Sc. in Forest Science, University of Wales, Bangor, 2006
+* B.Sc. (Hons) in Biology, University of Sheffield, 2004
 
 Publications
 ======
