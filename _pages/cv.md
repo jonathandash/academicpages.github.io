@@ -20,7 +20,12 @@ Work experience
 
 * 2015 - Present: Senior Scientist
   * Scion (New Zealand Forest Research Institute)
-  * Duties included: Tagging issues
+    * Invasive plant detection research
+    * Forest health monitoring research
+    * Forest Inventory and Measurement research
+    * Forest phenotyping
+    * Silvicultural research
+    * Proposal writing
  
 
 * 2013 - 2015: Remote Sensing Scientist
@@ -37,12 +42,18 @@ Work experience
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Analysis of remote sensing data
+  * Airborne laser scanning (Lidar)
+  * Satellite imagery (Experience with Sentinel-2, LandSat, WorldView3, WorldView2, SPOT5/6, StereoSat)
+  * UAV data (ALS, multispectral, hyperspectral)
+* Data science and statistcs
+  * Advanced R programming
+  * SQL, PostGIS
+  * Spatial analysis in R and Python
+  * Statistics and Machine Learning (Random Forests / SVM / Extreme gradient boosting)
+  * Experimental Design
+* Strategic vision and idea generation
+* Project Management and delivery
 
 Publications
 ======
@@ -64,4 +75,8 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Elected Councillor - New Zealand Institute of Forestry. 2018 - 2020
+* Chair - New Zealand Institute of Forestry CNI Section. 2013 - present
+* Chair - NZIF Annual conference 2017
+* The Forest Dialogue NZ Plantations Event 2018 - Steering Commitee
+* NZFFA Annual Conference 2018 steering committee 
