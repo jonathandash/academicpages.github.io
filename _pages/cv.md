@@ -27,7 +27,9 @@ Work experience
 
 * 2013 - 2015: Remote Sensing Scientist
   * Scion (New Zealand Forest Research Institute)
-  * Duties included: Tagging issues
+      * Forest health monitoring research
+      * Forest Inventory and Measurement research
+      * Silvicultural research
 
 * 2011 - 2013: Consultant
   * Interpine Forestry Limited
